@@ -1,0 +1,8 @@
+@import "tailwindcss";
+body{
+  background-color: #1e2939 ;
+  /* background-image: url(./assets/bmw.jpg); */
+  background-size:cover;
+  background-repeat: no-repeat;
+  background-position:top 0px left 0px;
+}
